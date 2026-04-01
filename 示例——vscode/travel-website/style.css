@@ -26,6 +26,7 @@ body {
   color: var(--text);
   background: var(--bg);
   line-height: 1.7;
+  font-weight: bold;
 }
 
 a {
